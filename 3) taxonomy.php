@@ -9,6 +9,7 @@ function ctec227_car_taxonomy()
         ),
         'hierarchical' => false,
         'public' => true,
+        'show_in_rest' => true
     );
 
     register_taxonomy('brands', array('cars'), $args);
