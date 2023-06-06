@@ -1,5 +1,5 @@
 <?php 
-// Copy and past the function below into your functions.php
+// Copy and paste the function below into your functions.php
 function i_like_pizza($atts, $content)
 {
     return "<h1>I LIKE PIZZA</h1>";
